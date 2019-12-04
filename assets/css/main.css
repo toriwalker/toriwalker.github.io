@@ -159,7 +159,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: 'Abril Fatface', sans-serif;
+		font-family: 'Courier New', sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -251,7 +251,7 @@ input, select, textarea {
 
 	code {
 		border-radius: 4px;
-		font-family: "Bebas Neue", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.325rem;
@@ -259,7 +259,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Beba Neue", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2rem 0;
 	}
